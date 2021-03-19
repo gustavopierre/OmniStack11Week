@@ -7,9 +7,6 @@
     </a>
 </p>
 
-<p align="center">
-  <img src="./img/banner_portfolio.png" width="600" alt="spacex launch at night" >
-</p>
 # __Semana OmniStack 11/ *Omnistack11 Week*__
 
 ![logos das tecnolgias usadas na Semana Omnistack11](./omnistack11week.png)
